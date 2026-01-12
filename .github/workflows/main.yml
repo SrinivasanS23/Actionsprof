@@ -2,7 +2,7 @@ name: build wf
 on:
   push:
     branches:
-      - main
+      - origin/main
   
 jobs:
   build:
